@@ -475,3 +475,12 @@ html{
     font-size: 18px;
     color: #100808;
 }
+.resume-btn{
+    background: linear-gradient(to right, orange, yellow);
+    color: black;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
